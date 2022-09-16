@@ -5,7 +5,7 @@ Hackathon participants are free to explore and build projects that span a variet
 * Stableswap pool AMM
 * Yield Optimizer similiar to Beefy, Pickle, Yearn
 * Streaming Payments platform for subscriptions using NFTs to verify
-* Central limit order book DEX similar to [Serum](https://www.projectserum.com/)
+* Central limit order book DEX similar to the only CLOB running on crypto ->[Serum](https://www.projectserum.com/)
 * Lending front end and primitive: Money market lending protocol EVM native (akin to Compound or Aave)
 * Cross-Chain Lending: A lending protocol that immediately provides liquidity for assets transferred cross-chain, utilizing the Wormhole bridge - such that users don't need to wait for the cross-chain assets to be fully confirmed on both chains - in return for a fee
 * Fixed-Rate Loans: Where users can take out a fixed-rate loan on an Ethereum Lending/Borrowing protocol that is enabled by an on-chain interest rate swap order book on [OmniDex](https://omnidex.finance/) or [Zappy Finance](https://www.zappy.finance/liquidity/pool?main=0x9a271e3748f59222f5581bae2540daa5806b3f77&base=tlos)
