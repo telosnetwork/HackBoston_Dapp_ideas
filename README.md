@@ -1,4 +1,4 @@
-# HackBoston Hackathon Project Ideas
+# HackBoston Project Ideas
 
 Hackathon participants are free to explore and build projects that span a variety of DeFi use cases.** The following is a list of interesting possible ideas sourced from the Telos community and the participating judges/speakers. One of the beauties of utilizing DeFi’s composable building blocks is that they can be remixed and modified to build entirely new financial services. So take a look if you or your team is in need of some inspiration! 
 
